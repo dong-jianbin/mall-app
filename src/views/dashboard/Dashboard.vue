@@ -76,12 +76,12 @@ export default {
           normal: require('@/images/tabbar/category_default.png'),
           active: require('@/images/tabbar/category_selected.png')
         },
-        {
-          name: 'eat',
-          title: 'home.eat',
-          normal: require('@/images/tabbar/eat_default.png'),
-          active: require('@/images/tabbar/eat_selected.png')
-        },
+        // {
+        //   name: 'eat',
+        //   title: 'home.eat',
+        //   normal: require('@/images/tabbar/eat_default.png'),
+        //   active: require('@/images/tabbar/eat_selected.png')
+        // },
         {
           name: 'cart',
           title: 'home.cart',
