@@ -19,7 +19,6 @@
            alt="">
       <span class="tipText">{{$t('common.distributionTip')}}</span>
     </div>
-
     <div class="tipBox">
       <img src="../../../../images/icon/seal.png"
            alt="">
